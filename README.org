@@ -31,10 +31,6 @@ CLOSED: [2023-01-18 Wed 12:35]
 :END:
 * TODO Das reicht nicht!
 * Zeile 8 neu
-* da geht noch mehr
 * Zeile 9 neu
 * da geht noch viel mehr, oder?
 ** TODO Ich brauche mehr
-* ne Katze
-* miaumio
-* mit nem #Kater oder zwei davon
