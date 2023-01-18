@@ -5,7 +5,9 @@
 * So ein Quatsch (neu alt vom puter)
 * da kommt noch mehr
 * TODO Das reicht nicht!
+* Zeile 8 neu
 * da geht noch mehr
+* Zeile 9 neu
 * da geht noch viel mehr, oder?
 ** TODO Ich brauche mehr
 * ne Katze
