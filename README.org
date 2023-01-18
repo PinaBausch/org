@@ -4,16 +4,9 @@
 :LOGBOOK:
 - State "STARTED"    from              [2023-01-18 Wed 12:23]
 :END:
-* TODO neuer Kram
-:LOGBOOK:
-- State "TODO"       from "DONE"       [2023-01-18 Wed 12:21]
-- State "DONE"       from "TODO"       [2023-01-18 Wed 12:11]
-:END:
-* HOLD So ein Quatsch (neu alt vom puter)
-:LOGBOOK:
-- State "HOLD"       from              [2023-01-18 Wed 13:33]
-:END:
-* da kommt noch mehr
+* TODO da kommt noch mehr
+- [a] aga
+
 * DONE Das reicht nicht!
 CLOSED: [2023-01-18 Wed 12:35]
 :LOGBOOK:
@@ -21,14 +14,9 @@ CLOSED: [2023-01-18 Wed 12:35]
 - State "TODO"       from "DONE"       [2023-01-18 Wed 11:36]
 - State "DONE"       from "TODO"       [2023-01-18 Wed 11:36]
 :END:
-* TODO da geht noch mehr
-:LOGBOOK:
-- State "TODO"       from "DONE"       [2023-01-18 Wed 12:39]
-- State "DONE"       from "TODO"       [2023-01-18 Wed 12:35]
-- State "TODO"       from "DONE"       [2023-01-18 Wed 12:26]
-- State "DONE"       from "STARTED"    [2023-01-18 Wed 12:10]
-- State "STARTED"    from              [2023-01-18 Wed 11:36]
-:END:
-* TODO Das reicht nicht!
 * da geht noch viel mehr, oder?
-** TODO Ich brauche mehr
+** DONE Ich brauche mehr
+CLOSED: [2023-01-18 Wed 15:30]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-01-18 Wed 15:30]
+:END:
