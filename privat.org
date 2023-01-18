@@ -1,11 +1,2 @@
-* STARTED Willkommen Christian
-:LOGBOOK:
-- State "STARTED"    from "DONE"       [2023-01-18 Wed 13:13]
-- State "DONE"       from "TODO"       [2023-01-18 Wed 13:12]
-- State "TODO"       from "DONE"       [2023-01-18 Wed 13:12]
-- State "DONE"       from "TODO"       [2023-01-18 Wed 13:08]
-:END:
-* TODO Raste
-:LOGBOOK:
-- State "TODO"       from              [2023-01-18 Wed 13:18]
-:END:
+TODO Willkommen Christian
+TODO Rastafari
