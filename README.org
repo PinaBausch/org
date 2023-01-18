@@ -1,11 +1,22 @@
 # org
-* wtf neu
+* DONE wtf neu
+CLOSED: [2023-01-18 Wed 11:48]
+:LOGBOOK:
+- State "DONE"       from              [2023-01-18 Wed 11:48]
+:END:
 * #granny simsalabim
 * TODO neuer Kram
 * So ein Quatsch
 * da kommt noch mehr
 * TODO Das reicht nicht!
-* da geht noch mehr
+:LOGBOOK:
+- State "TODO"       from "DONE"       [2023-01-18 Wed 11:36]
+- State "DONE"       from "TODO"       [2023-01-18 Wed 11:36]
+:END:
+* STARTED da geht noch mehr
+:LOGBOOK:
+- State "STARTED"    from              [2023-01-18 Wed 11:36]
+:END:
 * da geht noch viel mehr, oder?
 ** TODO Ich brauche mehr
 * ne Katze
