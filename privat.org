@@ -1,2 +1,8 @@
 * TODO Willkommen Christian
-* TODO Rastafari
+* STARTED Rastafari
+:LOGBOOK:
+- State "STARTED"    from "DONE"       [2023-01-18 Wed 13:32]
+- State "DONE"       from "TODO"       [2023-01-18 Wed 13:32]
+- State "TODO"       from "DONE"       [2023-01-18 Wed 13:32]
+- State "DONE"       from "TODO"       [2023-01-18 Wed 13:32]
+:END:
