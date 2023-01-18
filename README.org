@@ -1,24 +1,22 @@
 # org
 * wtf fuer anfänger so neu aufm puter
-* #granny simsalabim
+* STARTED #granny simsalabim
+:LOGBOOK:
+- State "STARTED"    from              [2023-01-18 Wed 12:23]
+:END:
 * TODO neuer Kram
 :LOGBOOK:
 - State "TODO"       from "DONE"       [2023-01-18 Wed 12:21]
 - State "DONE"       from "TODO"       [2023-01-18 Wed 12:11]
 :END:
-* da kommt noch mehr
 * TODO Das reicht nicht!
 :LOGBOOK:
 - State "TODO"       from "DONE"       [2023-01-18 Wed 11:36]
 - State "DONE"       from "TODO"       [2023-01-18 Wed 11:36]
 :END:
-* miaumio
 * DONE da geht noch mehr
 CLOSED: [2023-01-18 Wed 12:10]
 :LOGBOOK:
 - State "DONE"       from "STARTED"    [2023-01-18 Wed 12:10]
 - State "STARTED"    from              [2023-01-18 Wed 11:36]
 :END:
-* da geht noch viel mehr, oder?
-** TODO Ich brauche mehr
-* mit nem #Kater oder zwei davon
