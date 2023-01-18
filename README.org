@@ -1,9 +1,9 @@
 # org
 * wtf fuer anfänger so neu aufm puter
 * #granny simsalabim
-* DONE neuer Kram
-CLOSED: [2023-01-18 Wed 12:11]
+* TODO neuer Kram
 :LOGBOOK:
+- State "TODO"       from "DONE"       [2023-01-18 Wed 12:21]
 - State "DONE"       from "TODO"       [2023-01-18 Wed 12:11]
 :END:
 * da kommt noch mehr
