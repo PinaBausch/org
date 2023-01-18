@@ -9,6 +9,8 @@
 - State "TODO"       from "DONE"       [2023-01-18 Wed 12:21]
 - State "DONE"       from "TODO"       [2023-01-18 Wed 12:11]
 :END:
+* So ein Quatsch (neu alt vom puter)
+* da kommt noch mehr
 * TODO Das reicht nicht!
 :LOGBOOK:
 - State "TODO"       from "DONE"       [2023-01-18 Wed 11:36]
