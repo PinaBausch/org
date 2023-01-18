@@ -1,12 +1,6 @@
 # org
-* DONE wtf neu
-CLOSED: [2023-01-18 Wed 11:48]
-:LOGBOOK:
-- State "DONE"       from              [2023-01-18 Wed 11:48]
-:END:
 * #granny simsalabim
 * TODO neuer Kram
-* So ein Quatsch
 * da kommt noch mehr
 * TODO Das reicht nicht!
 :LOGBOOK:
