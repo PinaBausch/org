@@ -14,6 +14,9 @@
 :END:
 * da geht noch viel mehr, oder?
 ** TODO Ich brauche mehr
-* ne Katze
+* NEXT ne Katze Oha
+:LOGBOOK:
+- State "NEXT"       from              [2023-01-18 Wed 11:56]
+:END:
 * miaumio
 * mit nem #Kater oder zwei davon
