@@ -26,3 +26,12 @@ CLOSED: [2023-01-18 Wed 12:35]
 - State "DONE"       from "STARTED"    [2023-01-18 Wed 12:10]
 - State "STARTED"    from              [2023-01-18 Wed 11:36]
 :END:
+* TODO Das reicht nicht!
+* Zeile 8 neu
+* da geht noch mehr
+* Zeile 9 neu
+* da geht noch viel mehr, oder?
+** TODO Ich brauche mehr
+* ne Katze
+* miaumio
+* mit nem #Kater oder zwei davon
