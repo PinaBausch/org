@@ -14,9 +14,9 @@
 - State "TODO"       from "DONE"       [2023-01-18 Wed 11:36]
 - State "DONE"       from "TODO"       [2023-01-18 Wed 11:36]
 :END:
-* DONE da geht noch mehr
-CLOSED: [2023-01-18 Wed 12:10]
+* TODO da geht noch mehr
 :LOGBOOK:
+- State "TODO"       from "DONE"       [2023-01-18 Wed 12:26]
 - State "DONE"       from "STARTED"    [2023-01-18 Wed 12:10]
 - State "STARTED"    from              [2023-01-18 Wed 11:36]
 :END:
