@@ -1,10 +1,6 @@
 # org
-* NEXT ne Katze Oha
-:LOGBOOK:
-- State "NEXT"       from              [2023-01-18 Wed 11:56]
-:END:
-* wtf fuer anfänger so neu
- #granny simsalabim
+* wtf fuer anfänger so neu aufm puter
+* #granny simsalabim
 * TODO neuer Kram
 * da kommt noch mehr
 * TODO Das reicht nicht!
