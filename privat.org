@@ -1,12 +1,14 @@
-* DONE Neuer Scheiß aus’m kalten Wohnzimmer
-CLOSED: [2023-01-18 Wed 13:56]
+* TODO Neuer Scheiß aus’m kalten Wohnzimmer
 :LOGBOOK:
+- State "TODO"       from "DONE"       [2023-01-18 Wed 14:01]
 - State "DONE"       from "TODO"       [2023-01-18 Wed 13:56]
 - State "TODO"       from              [2023-01-18 Wed 13:38]
 :END:
 * TODO Willkommen Christian
-* STARTED Rastafari
+* DONE Rastafari
+CLOSED: [2023-01-18 Wed 14:01]
 :LOGBOOK:
+- State "DONE"       from "STARTED"    [2023-01-18 Wed 14:01]
 - State "STARTED"    from "DONE"       [2023-01-18 Wed 13:32]
 - State "DONE"       from "TODO"       [2023-01-18 Wed 13:32]
 - State "TODO"       from "DONE"       [2023-01-18 Wed 13:32]
