@@ -11,13 +11,17 @@
 :END:
 * So ein Quatsch (neu alt vom puter)
 * da kommt noch mehr
-* TODO Das reicht nicht!
+* DONE Das reicht nicht!
+CLOSED: [2023-01-18 Wed 12:35]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2023-01-18 Wed 12:35]
 - State "TODO"       from "DONE"       [2023-01-18 Wed 11:36]
 - State "DONE"       from "TODO"       [2023-01-18 Wed 11:36]
 :END:
 * TODO da geht noch mehr
 :LOGBOOK:
+- State "TODO"       from "DONE"       [2023-01-18 Wed 12:39]
+- State "DONE"       from "TODO"       [2023-01-18 Wed 12:35]
 - State "TODO"       from "DONE"       [2023-01-18 Wed 12:26]
 - State "DONE"       from "STARTED"    [2023-01-18 Wed 12:10]
 - State "STARTED"    from              [2023-01-18 Wed 11:36]
