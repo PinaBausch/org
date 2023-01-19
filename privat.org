@@ -1,6 +1,6 @@
-* WAITING Simsalabim
+* DONE Simsalabim
 :LOGBOOK:
-- State "TODO"       from              [2023-01-18 Wed 20:44]
++ State "TODO"       from              [2023-01-18 Wed 20:44]
 :END:
 * WAITING Neuer Scheiß aus’m kalten Wohnzimmer
 CLOSED: [2023-01-18 Wed 20:37]
