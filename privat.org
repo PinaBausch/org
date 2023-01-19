@@ -1,3 +1,4 @@
 #+PROPERTY: LOGGING nil
 * TODO Knolle Waging überweisen
 * TODO Anhörungsbogen Stadt Leipzig
+* TODO GEZ bezahlen
