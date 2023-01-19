@@ -1,4 +1,8 @@
 # org
+(setq org-todo-keyword-faces
+      '(("TODO" . org-warning) ("STARTED" . "yellow")
+        ("CANCELED" . (:foreground "blue" :weight bold))))
+
 * Ich brauche mehr Kekse
 * TODO #granny simsalabim
 :LOGBOOK:
