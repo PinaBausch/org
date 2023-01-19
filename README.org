@@ -6,6 +6,10 @@
 * RASPUTIN #granny Simse
 * anfänger so neu aufm Schiff *rasputin* ~ruswiter~ /italic/
 * TODO Das reicht nicht!
+:LOGBOOK:
+- State "TODO"       from "DONE"       [2023-01-19 Thu 06:53]
+- State "DONE"       from "TODO"       [2023-01-19 Thu 06:53]
+:END:
 * da geht noch viel mehr, oder?
 * DONE da kommt noch mehr
 - [a] aga
