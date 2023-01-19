@@ -16,9 +16,9 @@ CLOSED: [2023-01-19 Thu 11:27]
 <<<<<<< HEAD
 =======
 >>>>>>> 078c7c3d4af7177e23d2d0a6eccc5ef1da7c2679
-* DONE Willkommen Christian
-CLOSED: [2023-01-19 Thu 11:31]
+* TODO Willkommen Christian
 :LOGBOOK:
+- State "TODO"       from "DONE"       [2023-01-19 Thu 11:33]
 - State "DONE"       from "TODO"       [2023-01-19 Thu 11:31]
 - State "TODO"       from "DONE"       [2023-01-19 Thu 11:31]
 - State "DONE"       from "TODO"       [2023-01-19 Thu 11:31]
