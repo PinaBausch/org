@@ -1,14 +1,14 @@
 # org
-* wtf fuer anfänger so neu aufm puter
-* STARTED #granny simsalabim
+* Ich brauche mehr Kekse
+* TODO #granny simsalabim
 :LOGBOOK:
 - State "STARTED"    from              [2023-01-18 Wed 12:23]
 :END:
+* TODO anfänger so neu aufm Schiff
 * TODO da kommt noch mehr
 - [a] aga
 
-* DONE Das reicht nicht!
-CLOSED: [2023-01-18 Wed 12:35]
+* TODO Das reicht nicht!
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2023-01-18 Wed 12:35]
 - State "TODO"       from "DONE"       [2023-01-18 Wed 11:36]
@@ -16,7 +16,7 @@ CLOSED: [2023-01-18 Wed 12:35]
 :END:
 * da geht noch viel mehr, oder?
 ** DONE Ich brauche mehr
-CLOSED: [2023-01-18 Wed 15:30]
+CLOSED: [2023-01-19 Thu 03:59]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2023-01-18 Wed 15:30]
 :END:
