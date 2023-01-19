@@ -1,26 +1,6 @@
 #+PROPERTY: LOGGING nil
 * DONE Simsalabim                                                        :#lol:
 CLOSED: [2023-01-19 Thu 11:31]
-:LOGBOOK:
-- State "DONE"       from "STARTED"    [2023-01-19 Thu 11:31]
-- State "STARTED"    from "TODO"       [2023-01-19 Thu 11:21]
-+ State "TODO"       from              [2023-01-18 Wed 20:44]
-:END:
 * DONE Neuer Scheiß aus’m kalten Wohnzimmer
 CLOSED: [2023-01-19 Thu 11:27]
-:LOGBOOK:
-- State "DONE"       from "WAITING"    [2023-01-19 Thu 11:27]
-- State "DONE"       from "TODO"       [2023-01-18 Wed 20:37]
-- State "TODO"       from "DONE"       [2023-01-18 Wed 20:37]
-- State "DONE"       from "STARTED"    [2023-01-18 Wed 20:37]
-:END:
-<<<<<<< HEAD
-=======
->>>>>>> 078c7c3d4af7177e23d2d0a6eccc5ef1da7c2679
 * WAITING Willkommen Christian
-:LOGBOOK:
-- State "TODO"       from "DONE"       [2023-01-19 Thu 11:33]
-- State "DONE"       from "TODO"       [2023-01-19 Thu 11:31]
-- State "TODO"       from "DONE"       [2023-01-19 Thu 11:31]
-- State "DONE"       from "TODO"       [2023-01-19 Thu 11:31]
-:END:
