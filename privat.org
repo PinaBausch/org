@@ -1,5 +1,6 @@
-* TODO Simsalabim
+* STARTED Simsalabim                                                     :#lol:
 :LOGBOOK:
+- State "STARTED"    from "TODO"       [2023-01-19 Thu 11:21]
 + State "TODO"       from              [2023-01-18 Wed 20:44]
 :END:
 * WAITING Neuer Scheiß aus’m kalten Wohnzimmer
