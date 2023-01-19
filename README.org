@@ -2,6 +2,10 @@
 #+TODO: TODO WAITING | DONE
 #+TODO: | CANCELLED
 # org
+(setq org-todo-keyword-faces
+      '(("TODO" . org-warning) ("STARTED" . "yellow")
+        ("CANCELED" . (:foreground "blue" :weight bold))))
+
 * Ich brauche mehr Kekse
 * RASPUTIN #granny Simse
 :LOGBOOK:
