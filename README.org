@@ -5,8 +5,8 @@
 * Ich brauche mehr Kekse
 * RASPUTIN #granny Simse
 * anfänger so neu aufm Schiff *rasputin* ~ruswiter~ /italic/
-* DONE da kommt noch mehr
-- [a] aga
 * TODO Das reicht nicht!
 * da geht noch viel mehr, oder?
-** DONE Ich brauche mehr
+* DONE da kommt noch mehr
+- [a] aga
+** TODO Ich brauche mehr
