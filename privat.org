@@ -1,6 +1,3 @@
 #+PROPERTY: LOGGING nil
-* DONE Simsalabim                                                        :#lol:
-CLOSED: [2023-01-19 Thu 11:31]
-* DONE Neuer Scheiß aus’m kalten Wohnzimmer
-CLOSED: [2023-01-19 Thu 11:27]
-* TODO Willkommen Christian
+* TODO Knolle Waging überweisen
+* TODO Anhörungsbogen Stadt Leipzig
