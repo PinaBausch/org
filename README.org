@@ -1,3 +1,4 @@
+#+PROPERTY: LOGGING nil
 #+TODO: TODO WAITING | DONE
 #+TODO: | CANCELLED
 # org
@@ -154,7 +155,8 @@
 - State "TODO"       from "DONE"       [2023-01-19 Thu 05:13]
 - State "DONE"       from "WAITING"    [2023-01-19 Thu 05:13]
 :END:
-* TODO [#A] da kommt noch mehr
+* DONE da kommt noch mehr
+CLOSED: [2023-01-19 Thu 06:33]
 :LOGBOOK:
 - State "TODO"       from "DONE"       [2023-01-19 Thu 06:02]
 - State "DONE"       from "TODO"       [2023-01-19 Thu 06:02]
@@ -219,9 +221,13 @@
 :END:
 - [a] aga
 
-* DONE Das reicht nicht!
-CLOSED: [2023-01-19 Thu 05:41]
+* TODO Das reicht nicht!
 :LOGBOOK:
+- State "WAITING"    from "DONE"       [2023-01-19 Thu 06:22]
+- State "DONE"       from "TODO"       [2023-01-19 Thu 06:22]
+- State "TODO"       from "DONE"       [2023-01-19 Thu 06:22]
+- State "DONE"       from "TODO"       [2023-01-19 Thu 06:22]
+- State "TODO"       from "DONE"       [2023-01-19 Thu 06:22]
 - State "DONE"       from "TODO"       [2023-01-19 Thu 05:41]
 - State "TODO"       from "DONE"       [2023-01-19 Thu 05:41]
 - State "DONE"       from "TODO"       [2023-01-19 Thu 05:41]
