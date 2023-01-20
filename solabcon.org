@@ -1,6 +1,8 @@
 * Solabcon ToDO Liste
 * TODO Angebot Ringe
+* TODO Angebot Deckelanpassung Unterstützung Aufnahme
 * TODO Rechnung Service Baxter schreiben
+* TODO Angebot Sanner Rezepte neue Werkzeuge
 * TODO TRELLEBORG wg alter Movis PCs kontaktieren
-* TODO Angebot Sanner
+* TODO Sitzverlegung
 
