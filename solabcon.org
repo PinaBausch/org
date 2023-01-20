@@ -1,5 +1,6 @@
 * Solabcon ToDO Liste
 * TODO Angebot Ringe
+* WAITING Sanner Modell Aufnahme 3D
 * TODO Angebot Deckelanpassung Unterstützung Aufnahme
 * TODO Rechnung Service Baxter schreiben
 * TODO Angebot Sanner Rezepte neue Werkzeuge
