@@ -1,10 +1,17 @@
-* TODO Geld für Woche holen 100€
-* TODO Insulin aus Apotheke holen
-* TODO <2023-01-20 Fr 15:55> Abholung Öle Isa 55€
+* DONE Geld für Woche holen 100€
+CLOSED: [2023-01-23 Mon 11:22]
+* DONE Insulin aus Apotheke holen
+CLOSED: [2023-01-23 Mon 11:22]
+* DONE <2023-01-20 Fr 15:55> Abholung Öle Isa 55€
+CLOSED: [2023-01-23 Mon 11:22]
 * Giang Nam
 ** Tel: 034158156615
-** TODO 35a Sot Den - Dunkle Soße mit Tofu
-** TODO 3 - Mini Frühlingsrollen 9 Stk.
-** TODO M6 - Avocado Maki
-** TODO 28b - Bun Nam Bo - Reisfadennudeln mit Huhn
+** DONE 35a Sot Den - Dunkle Soße mit Tofu
+CLOSED: [2023-01-23 Mon 11:22]
+** DONE 3 - Mini Frühlingsrollen 9 Stk.
+CLOSED: [2023-01-23 Mon 11:22]
+** DONE M6 - Avocado Maki
+CLOSED: [2023-01-23 Mon 11:22]
+** DONE 28b - Bun Nam Bo - Reisfadennudeln mit Huhn
+CLOSED: [2023-01-23 Mon 11:22]
 
