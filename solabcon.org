@@ -2,9 +2,11 @@
 * DONE Angebot Ringe
 * DONE Sanner Modell Aufnahme 3D
 CLOSED: [2023-01-23 Mon 11:23]
-* TODO Angebot Deckelanpassung Unterstützung Aufnahme
+* DONE Angebot Deckelanpassung Unterstützung Aufnahme
+CLOSED: [2023-01-23 Mon 17:12]
 * TODO Rechnung Service Baxter schreiben
-* TODO Angebot Sanner Rezepte neue Werkzeuge
+* DONE Angebot Sanner Rezepte neue Werkzeuge
+CLOSED: [2023-01-23 Mon 17:12]
 * TODO TRELLEBORG wg alter Movis PCs kontaktieren
 * TODO Sitzverlegung
 DEADLINE: <2023-01-27 Fri>
