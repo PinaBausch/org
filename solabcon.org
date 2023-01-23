@@ -7,4 +7,4 @@ CLOSED: [2023-01-23 Mon 11:23]
 * TODO Angebot Sanner Rezepte neue Werkzeuge
 * TODO TRELLEBORG wg alter Movis PCs kontaktieren
 * TODO Sitzverlegung
-
+DEADLINE: <2023-01-27 Fri>
