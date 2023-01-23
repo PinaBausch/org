@@ -6,7 +6,8 @@ CLOSED: [2023-01-23 Mon 11:23]
 CLOSED: [2023-01-23 Mon 16:40]
 - State "DONE"       from "TODO"       [2023-01-23 Mon 16:40]
 * TODO Rechnung Service Baxter schreiben
-* TODO Angebot Sanner Rezepte neue Werkzeuge
+* DONE Angebot Sanner Rezepte neue Werkzeuge
+CLOSED: [2023-01-23 Mon 17:12]
 * TODO TRELLEBORG wg alter Movis PCs kontaktieren
 * TODO Sitzverlegung
 DEADLINE: <2023-01-27 Fri>
