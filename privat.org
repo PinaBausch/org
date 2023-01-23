@@ -1,4 +1,6 @@
 #+PROPERTY: LOGGING nil
+* TODO Karla Abholung heute 
+DEADLINE: <2023-01-23 Mo>
 * TODO Knolle Waging überweisen
 * TODO Anhörungsbogen Stadt Leipzig
 * TODO GEZ bezahlen
