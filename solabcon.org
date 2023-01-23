@@ -1,5 +1,5 @@
 * Solabcon ToDO Liste
-* TODO Angebot Ringe
+* DONE Angebot Ringe
 * DONE Sanner Modell Aufnahme 3D
 CLOSED: [2023-01-23 Mon 11:23]
 * TODO Angebot Deckelanpassung Unterstützung Aufnahme
