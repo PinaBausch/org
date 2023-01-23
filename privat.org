@@ -3,6 +3,6 @@
 * TODO Anhörungsbogen Stadt Leipzig
 * TODO GEZ bezahlen
 * DONE Zahnarzt Kuntze Termin vereinbart
-CLOSED: [2023-01-23 Mon 12:55]
+CLOSED: [2023-01-23 Mon 13:05]
 * TODO Zahnarzttermin Kuntze
 DEADLINE: <2023-02-02 Do 8:30>
