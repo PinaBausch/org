@@ -1,9 +1,3 @@
-* DONE Geld für Woche holen 100€
-CLOSED: [2023-01-23 Mon 11:22]
-* DONE Insulin aus Apotheke holen
-CLOSED: [2023-01-23 Mon 11:22]
-* DONE <2023-01-20 Fr 15:55> Abholung Öle Isa 55€
-CLOSED: [2023-01-23 Mon 11:22]
 * Giang Nam
 ** Tel: 034158156615
 ** DONE 35a Sot Den - Dunkle Soße mit Tofu
