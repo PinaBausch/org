@@ -8,3 +8,5 @@ CLOSED: [2023-01-23 Mon 13:05]
 CLOSED: [2023-01-31 Tue 13:20]
 * TODO howto consolidate email repo on two pcs
 * WAITING Waiting Schwester Anette
+* Spiegel kaufen
+* TODO Sueddeutsche kündigen
