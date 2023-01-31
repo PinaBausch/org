@@ -4,5 +4,7 @@
 * TODO GEZ bezahlen
 * DONE Zahnarzt Kuntze Termin vereinbart
 CLOSED: [2023-01-23 Mon 13:05]
-* TODO Tilda Einhorn
+* DONE Tilda Einhorn
+CLOSED: [2023-01-31 Tue 13:20]
 * TODO howto consolidate email repo on two pcs
+* WAITING Waiting Schwester Anette
