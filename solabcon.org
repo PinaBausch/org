@@ -11,3 +11,5 @@ CLOSED: [2023-01-23 Mon 17:12]
 * TODO TRELLEBORG wg alter Movis PCs kontaktieren
 * TODO Sitzverlegung
 DEADLINE: <2023-01-27 Fri>
+* Rechnung Brita Sanner
+* PalmRest Thinkpad eBay 27.2.2023
