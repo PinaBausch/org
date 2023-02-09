@@ -12,4 +12,5 @@ CLOSED: [2023-01-23 Mon 17:12]
 * TODO Sitzverlegung
 DEADLINE: <2023-01-27 Fri>
 * Rechnung Brita Sanner
-* PalmRest Thinkpad eBay 27.2.2023
+* TODO PalmRest Thinkpad eBay 27.2.2023
+- State "TODO"       from ""           [2023-02-09 Thu 09:34]
