@@ -1,2 +1,3 @@
 * Inbox on the go
 * TODO Ida Check Aufstehzeit
+* TODO Zähringer nachhaken Freitag 
