@@ -1,4 +1,4 @@
 * Lebensmittel
-** Äpfel 6 Stk.
+** todo Äpfel 6 Stk.
 * Drogeriemarkt
 * Obst und Gemüse
