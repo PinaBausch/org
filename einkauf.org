@@ -6,10 +6,3 @@ CLOSED: [2023-02-17 Fri 18:07]
 ** TODO 2x M6 - Avocado Maki
 ** DONE 20b - Bun Nam Bo - Reisfadennudeln mit Huhn
 CLOSED: [2023-01-23 Mon 11:22]
-* TODO 3x Zitronen
-* TODO 3x Grapefruit
-* TODO Röstzwiebeln
-* TODO Äpfel
-* TODO Möhren
-* TODO Stangensellerie 
-
