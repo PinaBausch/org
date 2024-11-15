@@ -1,4 +1,4 @@
 * Inbox on the go funzt das wirklich?
-* TODO Ida Check Aufstehzeit
+* DONE Ida Check Aufstehzeit
 * DONE Zähringer nachhaken Freitag 
 * DONE Weiterer Verwirrungsplan von Putin
