@@ -1,6 +1,6 @@
 * Lebensmittel
 ** todo Äpfel 6 Stk.
-** todo Bananen 17 Stk.
+** todo Bananen 22 Stk.
 ** todo Schweizer Käse
 
 * Drogeriemarkt
