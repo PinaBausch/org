@@ -5,3 +5,4 @@
 * WAITING wann funzt das alles mal?
 * TODO Messe lesen
 * Wer hat an der Uhr gedreht?
+* TODO Die Welt ist eine andere!
