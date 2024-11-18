@@ -2,3 +2,4 @@
 * DONE Ida Check Aufstehzeit
 * DONE Zähringer nachhaken Freitag 
 * DONE Weiterer Verwirrungsplan von Putin
+* WAITING wann funzt das alles mal?
