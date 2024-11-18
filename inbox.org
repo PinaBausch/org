@@ -3,3 +3,4 @@
 * DONE Zähringer nachhaken Freitag 
 * DONE Weiterer Verwirrungsplan von Putin
 * WAITING wann funzt das alles mal?
+* TODO Messe lesen
