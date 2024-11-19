@@ -1,29 +1,4 @@
-* DONE Weiterer Verwirrungsplan von Putin
-* STARTED Ida Check Aufstehzeit
-* WAITING Ida Check Aufstehzeit
+* TODO Vorbereitung 3D-Druck der Flächenelementleisten 
 :LOGBOOK:
-- State "STARTED"    from "DONE"       [2024-11-19 Tue 13:58]
-- State "DONE"       from "TODO"       [2024-11-19 Tue 13:57]
-- State "TODO"       from "DONE"       [2024-11-19 Tue 13:57]
-- State "DONE"       from "TODO"       [2024-11-19 Tue 13:57]
-- State "TODO"       from "DONE"       [2024-11-19 Tue 13:55]
-:END:
-* WAITING wann funzt das alles mal?
-* TODO Messe lesen
-* HOLD Inbox MAGA?
-:LOGBOOK:
-- State "HOLD"       from "DONE"       [2024-11-19 Tue 13:51]
-- State "DONE"       from "TODO"       [2024-11-19 Tue 13:51]
-:END:
-* Wer hat an der Uhr gedreht?
-* DONE Die Welt ist eine andere!
-CLOSED: [2024-11-19 Tue 13:51]
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-19 Tue 13:51]
-:END:
-* DONE Zähringer nachhaken Freitag 
-CLOSED: [2024-11-19 Tue 13:46]
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-19 Tue 13:46]
-- State "TODO"       from "DONE"       [2024-11-19 Tue 13:46]
+- State "TODO"       from              [2024-11-19 Tue 14:14]
 :END:
