@@ -1,8 +1,13 @@
-* TODO Inbox MAGA?
-* DONE Ida Check Aufstehzeit
-* DONE Zähringer nachhaken Freitag 
 * DONE Weiterer Verwirrungsplan von Putin
+* DONE Ida Check Aufstehzeit
 * WAITING wann funzt das alles mal?
 * TODO Messe lesen
+* TODO Inbox MAGA?
 * Wer hat an der Uhr gedreht?
 * TODO Die Welt ist eine andere!
+* DONE Zähringer nachhaken Freitag 
+CLOSED: [2024-11-19 Tue 13:46]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-19 Tue 13:46]
+- State "TODO"       from "DONE"       [2024-11-19 Tue 13:46]
+:END:
