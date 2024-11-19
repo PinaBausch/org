@@ -1,5 +1,8 @@
 * DONE Weiterer Verwirrungsplan von Putin
-* DONE Ida Check Aufstehzeit
+* TODO Ida Check Aufstehzeit
+:LOGBOOK:
+- State "TODO"       from "DONE"       [2024-11-19 Tue 13:55]
+:END:
 * WAITING wann funzt das alles mal?
 * TODO Messe lesen
 * HOLD Inbox MAGA?
