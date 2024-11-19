@@ -13,10 +13,6 @@ Erläuterungen
 :LOGBOOK:
 - State "STARTED"    from "DONE"       [2024-11-18 Mon 13:11]
 :END:
-* TODO Rechnung Service Baxter schreiben                            :#outdated:
-:LOGBOOK:
-- State "TODO"       from "DONE"       [2024-11-18 Mon 12:35]
-:END:
 * TODO Ein neuer Weg
 :LOGBOOK:
 - State "TODO"       from "DONE"       [2024-11-19 Tue 13:44]
