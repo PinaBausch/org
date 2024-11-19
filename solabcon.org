@@ -3,25 +3,13 @@
 CLOSED: [2024-11-18 Mon 12:35]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2024-11-18 Mon 12:35]
-- State "TODO"       from "DONE"       [2024-11-18 Mon 12:35]
-- State "DONE"       from "TODO"       [2024-11-18 Mon 12:35]
-- State "TODO"       from "DONE"       [2024-11-18 Mon 12:35]
-- State "DONE"       from "TODO"       [2024-11-18 Mon 12:34]
-- State "TODO"       from "DONE"       [2024-11-18 Mon 12:34]
-- State "DONE"       from "TODO"       [2024-11-18 Mon 12:34]
-- State "TODO"       from              [2024-11-18 Mon 12:28]
 :END:
 Erläuterungen
 * STARTED Solabcon ToDO Liste
 :LOGBOOK:
 - State "STARTED"    from "DONE"       [2024-11-18 Mon 13:11]
-- State "DONE"       from "TODO"       [2024-11-18 Mon 13:11]
-- State "TODO"       from              [2024-11-18 Mon 13:11]
 :END:
 * TODO Rechnung Service Baxter schreiben
 :LOGBOOK:
 - State "TODO"       from "DONE"       [2024-11-18 Mon 12:35]
-- State "DONE"       from "TODO"       [2024-11-18 Mon 12:35]
-- State "TODO"       from "DONE"       [2024-11-18 Mon 12:26]
-- State "DONE"       from "TODO"       [2024-11-18 Mon 12:26]
 :END:
