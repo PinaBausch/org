@@ -1,16 +1,27 @@
-* Solabcon ToDO Liste
-* DONE Angebot Ringe
-* DONE Sanner Modell Aufnahme 3D
-CLOSED: [2023-01-23 Mon 11:23]
-* DONE Angebot Deckelanpassung Unterstützung Aufnahme
-CLOSED: [2023-01-23 Mon 16:40]
-- State "DONE"       from "TODO"       [2023-01-23 Mon 16:40]
+#+TODO: TODO STARTED BLOCKED WAITING | DONE CANCELLED
+* DONE Auf dem Weg
+CLOSED: [2024-11-18 Mon 12:35]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-18 Mon 12:35]
+- State "TODO"       from "DONE"       [2024-11-18 Mon 12:35]
+- State "DONE"       from "TODO"       [2024-11-18 Mon 12:35]
+- State "TODO"       from "DONE"       [2024-11-18 Mon 12:35]
+- State "DONE"       from "TODO"       [2024-11-18 Mon 12:34]
+- State "TODO"       from "DONE"       [2024-11-18 Mon 12:34]
+- State "DONE"       from "TODO"       [2024-11-18 Mon 12:34]
+- State "TODO"       from              [2024-11-18 Mon 12:28]
+:END:
+Erläuterungen
+* STARTED Solabcon ToDO Liste
+:LOGBOOK:
+- State "STARTED"    from "DONE"       [2024-11-18 Mon 13:11]
+- State "DONE"       from "TODO"       [2024-11-18 Mon 13:11]
+- State "TODO"       from              [2024-11-18 Mon 13:11]
+:END:
 * TODO Rechnung Service Baxter schreiben
-* DONE Angebot Sanner Rezepte neue Werkzeuge
-CLOSED: [2023-01-23 Mon 17:12]
-* TODO TRELLEBORG wg alter Movis PCs kontaktieren
-* TODO Sitzverlegung
-DEADLINE: <2023-01-27 Fri>
-* Rechnung Brita Sanner
-* TODO PalmRest Thinkpad eBay 27.2.2023
-- State "TODO"       from ""           [2023-02-09 Thu 09:34]
+:LOGBOOK:
+- State "TODO"       from "DONE"       [2024-11-18 Mon 12:35]
+- State "DONE"       from "TODO"       [2024-11-18 Mon 12:35]
+- State "TODO"       from "DONE"       [2024-11-18 Mon 12:26]
+- State "DONE"       from "TODO"       [2024-11-18 Mon 12:26]
+:END:
