@@ -1,4 +1,5 @@
 * TODO automatische Synchronisation der TODOs mit T480s org-mode inbox
+* DONE beorg ist raus!
 * DONE Weiterer Verwirrungsplan von Putin
 * STARTED Ida Check Aufstehzeit
 * WAITING Ida Check Aufstehzeit
