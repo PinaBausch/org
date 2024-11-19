@@ -1,4 +1,8 @@
 #+TODO: TODO STARTED BLOCKED WAITING | DONE CANCELLED
+* TODO Jetzt noch so ein paar Aufgaben reinhacken
+:LOGBOOK:
+- State "TODO"       from              [2024-11-19 Tue 13:39]
+:END:
 * DONE Auf dem Weg
 CLOSED: [2024-11-18 Mon 12:35]
 :LOGBOOK:
