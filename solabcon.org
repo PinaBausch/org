@@ -13,3 +13,4 @@ Erläuterungen
 :LOGBOOK:
 - State "TODO"       from "DONE"       [2024-11-18 Mon 12:35]
 :END:
+* TODO Ein neuer Weg
