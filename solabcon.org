@@ -3,12 +3,6 @@
 :LOGBOOK:
 - State "TODO"       from              [2024-11-19 Tue 13:39]
 :END:
-* DONE Auf dem Weg
-CLOSED: [2024-11-18 Mon 12:35]
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-18 Mon 12:35]
-:END:
-Erläuterungen
 * STARTED Solabcon ToDO Liste
 :LOGBOOK:
 - State "STARTED"    from "DONE"       [2024-11-18 Mon 13:11]
