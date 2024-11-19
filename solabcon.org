@@ -14,3 +14,7 @@ Erläuterungen
 - State "TODO"       from "DONE"       [2024-11-18 Mon 12:35]
 :END:
 * TODO Ein neuer Weg
+:LOGBOOK:
+- State "TODO"       from "DONE"       [2024-11-19 Tue 13:36]
+- State "DONE"       from "TODO"       [2024-11-19 Tue 13:32]
+:END:
