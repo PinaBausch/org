@@ -2,9 +2,17 @@
 * DONE Ida Check Aufstehzeit
 * WAITING wann funzt das alles mal?
 * TODO Messe lesen
-* TODO Inbox MAGA?
+* HOLD Inbox MAGA?
+:LOGBOOK:
+- State "HOLD"       from "DONE"       [2024-11-19 Tue 13:51]
+- State "DONE"       from "TODO"       [2024-11-19 Tue 13:51]
+:END:
 * Wer hat an der Uhr gedreht?
-* TODO Die Welt ist eine andere!
+* DONE Die Welt ist eine andere!
+CLOSED: [2024-11-19 Tue 13:51]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-19 Tue 13:51]
+:END:
 * DONE Zähringer nachhaken Freitag 
 CLOSED: [2024-11-19 Tue 13:46]
 :LOGBOOK:
