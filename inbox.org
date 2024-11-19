@@ -1,3 +1,7 @@
+* TODO Flächenelemente Konstruktion
+:LOGBOOK:
+- State "TODO"       from              [2024-11-19 Tue 15:05]
+:END:
 * TODO Vorbereitung 3D-Druck der Flächenelementleisten 
 :LOGBOOK:
 - State "TODO"       from              [2024-11-19 Tue 14:14]
