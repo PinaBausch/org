@@ -1,4 +1,8 @@
 #+TODO: TODO STARTED BLOCKED WAITING | DONE CANCELLED
+* TODO Konstruktion Auflagen bis 18:10
+:LOGBOOK:
+- State "TODO"       from              [2024-11-20 Wed 18:10]
+:END:
 * TODO Bibotest mit Nachtrag 33 mal anders so
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2024-11-20 Wed 12:25]
