@@ -1,19 +1,11 @@
 #+TODO: TODO STARTED BLOCKED WAITING | DONE CANCELLED
 * TODO Bibotest mit Nachtrag 33 mal anders so
 :LOGBOOK:
-- State "TODO"       from "DONE"       [2024-11-20 Wed 12:26]
-- State "DONE"       from "TODO"       [2024-11-20 Wed 12:26]
-- State "TODO"       from "DONE"       [2024-11-20 Wed 12:25]
-- State "DONE"       from "TODO"       [2024-11-20 Wed 12:25]
-- State "TODO"       from "DONE"       [2024-11-20 Wed 12:25]
 - State "DONE"       from "TODO"       [2024-11-20 Wed 12:25]
 - State "TODO"       from              [2024-11-20 Wed 11:20]
 :END:
 * TODO Ein neuer Weg
 :LOGBOOK:
-- State "TODO"       from "DONE"       [2024-11-19 Tue 13:44]
-- State "DONE"       from "TODO"       [2024-11-19 Tue 13:44]
-- State "TODO"       from "DONE"       [2024-11-19 Tue 13:36]
 - State "DONE"       from "TODO"       [2024-11-19 Tue 13:32]
 :END:
 * TODO Jetzt noch so ein paar Aufgaben reinhacken
@@ -24,6 +16,5 @@
 CLOSED: [2024-11-20 Wed 13:55]
 :LOGBOOK:
 - State "CANCELLED"  from "DONE"       [2024-11-20 Wed 13:55]
-- State "DONE"       from "STARTED"    [2024-11-20 Wed 13:49]
 - State "STARTED"    from "DONE"       [2024-11-18 Mon 13:11]
 :END:
