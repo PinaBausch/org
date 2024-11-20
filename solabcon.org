@@ -1,5 +1,5 @@
 #+TODO: TODO STARTED BLOCKED WAITING | DONE CANCELLED
-* TODO Bibotest
+* TODO Bibotest mit Nachtrag
 :LOGBOOK:
 - State "TODO"       from              [2024-11-20 Wed 11:20]
 :END:
