@@ -1,4 +1,4 @@
-* TODO Noch n Test mi Korrektur
+* TODO Noch n Test mi Korrektur am Abend
 :LOGBOOK:
 - State "TODO"       from              [2024-11-20 Wed 11:21]
 :END:
