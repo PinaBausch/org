@@ -20,7 +20,9 @@
 :LOGBOOK:
 - State "TODO"       from              [2024-11-19 Tue 13:39]
 :END:
-* STARTED Solabcon ToDO Liste
+* DONE Solabcon ToDO Liste
+CLOSED: [2024-11-20 Wed 13:49]
 :LOGBOOK:
+- State "DONE"       from "STARTED"    [2024-11-20 Wed 13:49]
 - State "STARTED"    from "DONE"       [2024-11-18 Mon 13:11]
 :END:
