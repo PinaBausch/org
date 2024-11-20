@@ -1,1 +1,7 @@
 * TODO aha
+:LOGBOOK:
+- State "TODO"       from "DONE"       [2024-11-20 Wed 12:23]
+- State "DONE"       from "TODO"       [2024-11-20 Wed 12:23]
+- State "TODO"       from "DONE"       [2024-11-20 Wed 12:23]
+- State "DONE"       from "TODO"       [2024-11-20 Wed 12:23]
+:END:
