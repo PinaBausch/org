@@ -1,5 +1,8 @@
 #+TODO: TODO STARTED BLOCKED WAITING | DONE CANCELLED
 * TODO Auflagen 3D-Druck
+** 16x Auflage 100
+** 2x Auflage 98R
+** 2x Auflage 98L
 :LOGBOOK:
 - State "TODO"       from              [2024-11-22 Fri 12:50]
 :END:
