@@ -1,4 +1,8 @@
 #+TODO: TODO STARTED BLOCKED WAITING | DONE CANCELLED
+* TODO Auflagen 3D-Druck
+:LOGBOOK:
+- State "TODO"       from              [2024-11-22 Fri 12:50]
+:END:
 * TODO Konstruktion Auflagen bis 18:10
 :LOGBOOK:
 - State "TODO"       from              [2024-11-20 Wed 18:10]
