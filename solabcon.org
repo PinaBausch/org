@@ -1,4 +1,8 @@
 #+TODO: TODO STARTED BLOCKED WAITING | DONE CANCELLED
+* TODO Pfanne Edelstahl Nutzung
+:LOGBOOK:
+- State "TODO"       from              [2024-11-24 Sun 12:32]
+:END:
 * TODO Auflagen 3D-Druck
 ** 16x Auflage 100
 ** 2x Auflage 98R
